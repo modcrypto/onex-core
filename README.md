@@ -18,3 +18,13 @@ For more information:
 
 * https://www.onex.cash
 * https://bitcointalk.org/index.php?topic=2393150.140
+
+addnode
+---------------
+```
+addnode=136.243.104.167:18291
+addnode=144.202.21.100:18291
+addnode=149.56.128.142:18291
+addnode=162.218.209.32:18291
+addnode=173.212.247.24:18291
+```
